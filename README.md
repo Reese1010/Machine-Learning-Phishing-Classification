@@ -2,7 +2,7 @@
 
 # Overview
 
-This project involves building a machine learning classification model to predict phishing emails based on a labeled dataset of phishing and non-phishing emails. The goal is to train a logistic regression classifier, evaluate its performance using a confusion matrix and ROC curve, and analyze feature importance.
+This project involves building a machine learning classification model to predict phishing websites based on a labeled dataset of phishing and non-phishing websites. The goal is to train a logistic regression classifier, evaluate its performance using a confusion matrix and ROC curve, and analyze feature importance.
 
 # Deliverables
 
