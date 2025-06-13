@@ -45,7 +45,7 @@ We conducted an analysis to determine which features in the dataset contribute t
 # ROC Curve
 
 A Receiver Operating Characteristic (ROC) curve was generated to visualize the classifier's performance, plotting the true positive rate against the false positive rate
-![ROC Curve](images/ROC_Curve.png)
+![ROC Curve](LRRoc.png)
 
 
 # Full Report Analysis
