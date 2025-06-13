@@ -1,4 +1,4 @@
-# Machine Learning Phishing Email Classification
+# Machine Learning Phishing Website Classification
 
 # Overview
 
