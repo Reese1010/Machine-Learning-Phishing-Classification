@@ -35,12 +35,12 @@ Used the Logistic Regression classifier to train the model with 33% of the data 
 # Confusion Matrix Evaluation
 
 The model’s performance is evaluated using a confusion matrix, which provides insight into the true positives, true negatives, false positives, and false negatives
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](LRConfmatrix.png)
 
 # Feature Analysis
 
 We conducted an analysis to determine which features in the dataset contribute the most to the classification decision. This helps in understanding the model’s decision-making process
-![Feature Analysis](images/feature_analysis.png)
+![Feature Analysis](LRFeatures.png)
 
 # ROC Curve
 
