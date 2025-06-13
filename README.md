@@ -30,7 +30,7 @@ This project involves building a machine learning classification model to predic
 # Logistic Regression Classifier
 
 Used the Logistic Regression classifier to train the model with 33% of the data set aside for testing and the remaining 67% for training. The model is trained to classify emails into either phishing or non-phishing categories
-![Logistic Regression](LRclasspng)
+![Logistic Regression](LRclass.png)
 
 # Confusion Matrix Evaluation
 
