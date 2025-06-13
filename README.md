@@ -50,5 +50,7 @@ A Receiver Operating Characteristic (ROC) curve was generated to visualize the c
 
 # Full Report Analysis
 
-![Logistic Regression Report](images/logistic_regression_report.png)
+The Logistic Regression model achieved a ROC AUC score of 0.84, indicating strong classification performance. The ROC curve plots the True Positive Rate (TPR) against the False Positive Rate (FPR). An AUC (Area Under Curve) score of 0.84 suggests that the model can effectively distinguish between phishing and non-phishing websites 84% of the time. 
+overall classification accuracy of the model on the test set was 81%. The algorithm correctly predicted phishing and non-phishing websites with high reliability.
+![Logistic Regression Report](LRAccur.png)
 
