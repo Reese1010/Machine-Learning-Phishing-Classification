@@ -8,7 +8,7 @@ This project involves building a machine learning classification model to predic
 
 * Jupyter Notebook
 * Logistic Regression Classifier Model
-* Evaluation Metrics
+* Python
 
 # Dataset
 
